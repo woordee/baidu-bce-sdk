@@ -1,0 +1,14 @@
+{
+    "name": "woordee/baidu-bce-sdk",
+    "description": "Baidu BCE SDK",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": "^7.4 || ^8.0",
+    },
+    "autoload": {
+        "psr-4": {
+            "BaiduBce\\": "src/"
+        }
+    }
+}
